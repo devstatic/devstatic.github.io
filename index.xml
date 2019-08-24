@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Shieh</title>
+    <link>https://www.ericshieh.com/</link>
+    <description>Recent content on Eric Shieh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 24 Aug 2019 23:30:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.ericshieh.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>新网站上线</title>
+      <link>https://www.ericshieh.com/post/new-website/</link>
+      <pubDate>Sat, 24 Aug 2019 23:30:00 +0800</pubDate>
+      
+      <guid>https://www.ericshieh.com/post/new-website/</guid>
+      <description>我的新网站上线，需要调整的地方有很多。</description>
+    </item>
+    
+  </channel>
+</rss>

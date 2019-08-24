@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.ericshieh.com/sitemap.xml
